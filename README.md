@@ -38,3 +38,5 @@ Lightweight local file integrity checker for developers or administrators.
 The tool is simple to use and only requires Python. It serves as a foundational security utility and can be extended for real-time monitoring or notifications.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/aa518194-84a5-4328-95a8-d6943196e384)
